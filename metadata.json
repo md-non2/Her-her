@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Romantic Story Journey",
+  "description": "একটি আধুনিক, আবেগঘন (emotional), রোমান্টিক এবং স্মুথ অ্যানিমেশনযুক্ত স্টোরি-ভিত্তিক স্লাইড জার্নি ওয়েবসাইট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
